@@ -11,6 +11,8 @@ First, the system takes input like a written safety report or an image from camp
 
 (4) one failure case tied to a lab output:
 One issue I saw in Lab 2 is that the AI does not always give the same answer. If you run the same message multiple times, it can change the urgency level or category. For example, one report might be labeled “low risk” in one run and “medium risk” in another. This shows that the system is not fully reliable yet, especially for something like safety, where consistency matters.
+<img width="1470" height="956" alt="Screenshot 2026-05-10 at 11 17 52 PM" src="https://github.com/user-attachments/assets/f409274e-ef3b-46fc-8fff-05eb68c820dd" />
+
 
 ## (5) the oversight decision and the one change, each with its tradeoff stated.
 A human should still check important safety messages before they are shared with students. The AI can help organize information, but it should not be the only one deciding what the final output is. The benefit of using AI is speed and organization. The downside is that it can make mistakes or be inconsistent. If we add human review, it would take more time for the report to come out but it is much safer.
